@@ -6,4 +6,4 @@ The main aim of the project is to predict the house price in Chennai city of Ind
 Hence, we have provided a solution to predict the House price in both the above situations - A univariate Model and a Multivariate Machine Learning Model.
 In case, you would like to predict the house price for a different city or country, you would have to find a dataset, containing the House price and then train the model. All you would have to do is, change the path of your dataset.
 
-In case of any queries, contact: revukrishna2000@gmail.com
+Any queries regarding the project?? drop a mail to - revnth@outlook.com
